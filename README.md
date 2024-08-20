@@ -5,7 +5,8 @@
 
 ---
 레포 구조:
-'''
+₩₩₩
+/AIFFEL_quest_rs/
 ├── Exploration
 │   └── README.md
 ├── GoingDeeper
@@ -13,4 +14,4 @@
 ├── MainQuest
 │   └── README.md
 └── README.md
-'''
+₩₩₩
