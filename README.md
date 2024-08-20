@@ -5,7 +5,7 @@
 
 ---
 레포 구조:
-₩₩₩
+```
 /AIFFEL_quest_rs/
 ├── Exploration
 │   └── README.md
@@ -14,4 +14,4 @@
 ├── MainQuest
 │   └── README.md
 └── README.md
-₩₩₩
+```
