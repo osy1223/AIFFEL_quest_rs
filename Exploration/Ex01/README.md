@@ -6,21 +6,14 @@
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
 	
-![Alt text](/aiffel/aiffel/aiffel/fork/AIFFEL_quest_rs_osy1223/Exploration/Ex01/media/a.png)
+	- 9.1 괄호() 4번 문제까지는 문제가 제시하는 방향으로 코딩이 되어 있지만 그 이후에는 문제가 제시한 방향이 아닌 다른 방향으로 코딩이 되어있음 또한 아직 프로젝트가 완료되지 않음(media 디렉토리의 a.png, b.png 참조)
 
-![Alt text](/aiffel/aiffel/aiffel/fork/AIFFEL_quest_rs_osy1223/Exploration/Ex01/media/b.png)
-	- 9.1 괄호() 4번 문제까지는 문제가 제시하는 방향으로 코딩이 되어 있지만 그 이후에는 문제가 제시한 방향이 아닌 다른 방향으로 코딩이 되어있음 또한 아직 프로젝트가 완료되지 않음
-
-![Alt text](/aiffel/aiffel/aiffel/fork/AIFFEL_quest_rs_osy1223/Exploration/Ex01/media/c.png)
-
-	- 9.2 괄호() 3번까지 코딩이 되어 있으며, 아직 프로젝트가 완료되지 않음
+	- 9.2 괄호() 3번까지 코딩이 되어 있으며, 아직 프로젝트가 완료되지 않음(media 디렉토리의 c.png 참조)
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
 
-![Alt text](/aiffel/aiffel/aiffel/fork/AIFFEL_quest_rs_osy1223/Exploration/Ex01/media/d.png)
-	
-	- 다른 사람이 알아보기 쉽게 키워드로 표현함
+	- 다른 사람이 알아보기 쉽게 키워드로 표현함(media 디렉토리의 d.png 참조)
 
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
