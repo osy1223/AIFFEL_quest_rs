@@ -63,3 +63,7 @@
 
 - [Robust Scaler](https://wikidocs.net/89704)
 ```
+
+# 결과
+<img width="752" alt="image" src="https://github.com/user-attachments/assets/dc6be02b-09f6-4444-98f9-d62d8bcf4c95">
+
